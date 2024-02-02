@@ -38,7 +38,7 @@ function Education (data) {
           </div>
           <div>
             <p id = "place-name">{place.school}</p>
-            <p id = "role">{place.role}</p>
+            <p id = "degree">{place.degree}</p>
           </div>
         </div>
       );
@@ -57,6 +57,7 @@ function Practical (data) {
           <div>
             <p id = "place-name">{place.company}</p>
             <p id = "role">{place.position + " " + place.role}</p>
+            <p id='details'>{place.details}  </p>
           </div>
         </div>
       );
