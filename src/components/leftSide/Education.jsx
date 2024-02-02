@@ -27,10 +27,10 @@ function School (props) {
       />
         
       <Input 
-        title = "Role"
+        title = "Degree"
         type = "text" 
-        name = "role"
-        value = {props.role}
+        name = "degree"
+        value = {props.degree}
         onChange = {props.changeEducation}
       />
       
@@ -64,7 +64,7 @@ return (
         <School
           from = {place.from}
           to = {place.to}
-          role = {place.role}
+          degree = {place.degree}
           school = {place.school}
           index = {index}
           key = {place.id}
