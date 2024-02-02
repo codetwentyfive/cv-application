@@ -3,7 +3,7 @@
 <p>CV APP is a mobile-friendly React project designed for creating resumes. It features a live preview, and supports PDF generation for convenient sharing.</p>
 <p>The project intentionally avoids using React State Management solutions, relying solely on useState to explore React concepts. The application supports light/dark themes for an improved user experience.</p>
 
-Live: -link to be added
+Live:https://cv-application-navy-delta.vercel.app/
 
 <h2>💡 Skills</h2>
 <ul>
