@@ -74,7 +74,7 @@ function App() {
               {
                 "from": "",
                 "to": "",
-                "role": "",
+                "degree": "",
                 "school": "School/ University name",
                 "id": crypto.randomUUID(),
                 "show": 1,
@@ -122,6 +122,7 @@ function App() {
                 "role": "",
                 "position": "",
                 "company": "Company name",
+                "details":"",
                 "id": crypto.randomUUID(),
                 "show": 1,
               },
