@@ -32,7 +32,7 @@ const examplePracticalExperiences = [
   {
     "from": "2024-12-01",
     "to": "2024-01-28",
-    "role": "Second memeber",
+    "role": "Second member",
     "position": "Member of the Ultimate Human",
     "company": "Human Centipede",
     "details":"-Learned patience",
